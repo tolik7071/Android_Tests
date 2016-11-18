@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/alpha" android:title="@string/AlphaAnimationString"></item>
+    <item android:id="@+id/combo" android:title="@string/ComboAnimationString"></item>
+    <item android:id="@+id/rotate" android:title="@string/RotateAnimationString"></item>
+    <item android:id="@+id/scale" android:title="@string/ScaleAnimationString"></item>
+    <item android:id="@+id/transition" android:title="@string/TransionAnimationString"></item>
+</menu>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Simple Animation</string>
+    <string name="AlphaAnimationString">Animate Alpha Chanel</string>
+    <string name="ComboAnimationString">Complex Animation</string>
+    <string name="RotateAnimationString">Rotate Animation</string>
+    <string name="ScaleAnimationString">Scale Animation</string>
+    <string name="TransionAnimationString">Transition Animation</string>
+</resources>
